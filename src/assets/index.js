@@ -34,7 +34,7 @@ import IconKorumi from "./icons/Kurumi";
 import dmx from "./dmx.jpg";
 import Movie from "./movie.png";
 import Tictactoe from "./tictactoe.png";
-import Wiki from "./wiki.png";
+import Wiki from "./Wiki.png";
 
 export {
   IconKorumi,
