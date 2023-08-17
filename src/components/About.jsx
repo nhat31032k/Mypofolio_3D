@@ -42,7 +42,7 @@ const About = () => {
       >
         Hi, I'm Nguyen Hoang Quang Nhat, a Front End Developer. Armed with
         creative acumen and proficiency in HTML, CSS, JavaScript, and expertise
-        in frameWorks like Nextjs, react. I specialize in putting together user
+        in frameWork like Nextjs, React. I specialize in putting together user
         interfaces that are easy to navigate and visually appealing. My
         dedication lies in delivering a perfectly harmonized digital experience
         that seamlessly blends functionality with aesthetics.
