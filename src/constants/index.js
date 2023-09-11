@@ -127,12 +127,13 @@ const experiences = [
     company_name: "GoWare JSC",
     icon: WM,
     iconBg: "#383E56",
-    date: "September 2022 - august 2023",
+    date: "September 2022 - September 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participate in the development of the company's personal project WordsMine",
+      "I have played central role in rapidly develop Goware core of product such as:",
+      "+ Friend suggestion: utilize Ant Design, Scss to build app's frontend, integrate with provided RESTful API and manage data (Redux Thunk).",
+      "+ User post: end-to-end implementation,  design (Figma) to develop (ReactJS).",
+      "+ Live Learning: data visualization with Ant-Design-Charts component.",
+      "+ Landing page: integrate with MOMO payment gateway, support animation, resposive design with NextJS.",
     ],
   },
   {
@@ -140,12 +141,12 @@ const experiences = [
     company_name: "Mindx technology school",
     icon: mindx,
     iconBg: "#E6DEDD",
-    date: "Aug 2021 - April 2022",
+    date: "Aug 2021 - Aug 2022",
     points: [
-      "Carrying out the work of teaching classes at the request of students.",
-      "Make lesson plans for students and check assignments.",
-      "Applying soft skills to the teaching process.",
-      "Ability to think and handle situations in teaching.",
+      "In this role, I taught high-school students:",
+      "+ Introduction to Algorithm.",
+      "+ Javascript, HTML, CSS, Game Maker, etc.",
+      "The experience taught me to be patient, being an effective communicator and have an organized, proactive mindset.",
     ],
   },
   {
@@ -178,7 +179,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Nhat proved me wrong.",
     name: "Dinh Binh",
     designation: "Back End Dev",
     company: "Tadidi",
@@ -186,7 +187,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Nhat does.",
     name: "Ngan Nguyen",
     designation: "KOl",
     company: "Agency",
@@ -194,7 +195,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Nhat optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Uyen Huynh",
     designation: "Product Owner",
     company: "Amanotes",

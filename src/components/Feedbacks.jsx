@@ -46,7 +46,7 @@ const Feedbacks = () => {
       >
         <motion.div variants={textVariant()}>
           <p className={`${styles.sectionSubText}`}>what others say</p>
-          <h2 className={styles.sectionHeadText}>Testimonails</h2>
+          <h2 className={styles.sectionHeadText}>Testimonial</h2>
         </motion.div>
       </div>
       <div className={`${styles.paddingX} mt-20 pb-14 flex flex-wrap gap-7`}>
