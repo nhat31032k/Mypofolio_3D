@@ -26,6 +26,7 @@ import {
   Movie,
   Tictactoe,
   Wiki,
+  WordsMine,
 } from "../assets";
 
 export const navLinks = [
@@ -205,6 +206,30 @@ const testimonials = [
 
 const projects = [
   {
+    name: "WordsMine web app",
+    description: "Web app english that you can learn vocabulary",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "useHook",
+        color: "green-text-gradient",
+      },
+      {
+        name: "sass",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Redux",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: WordsMine,
+    source_code_link: "https://app.wordsmine.com/",
+  },
+  {
     name: "React Wiki",
     description: "Web that you can search every thing like wikipedia",
     tags: [
@@ -217,7 +242,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "sass",
         color: "pink-text-gradient",
       },
     ],
@@ -237,7 +262,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "sass",
         color: "pink-text-gradient",
       },
     ],
