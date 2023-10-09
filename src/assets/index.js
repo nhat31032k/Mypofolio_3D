@@ -35,7 +35,7 @@ import dmx from "./dmx.jpg";
 import Movie from "./movie.png";
 import Tictactoe from "./tictactoe.png";
 import Wiki from "./Wiki.png";
-import WordsMine from "./WM.jpg";
+import WordsMine from "./WM.png";
 export {
   WordsMine,
   IconKorumi,
